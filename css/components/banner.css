@@ -1,0 +1,17 @@
+.banner {
+  padding: 150px 0;
+  background-size: cover;
+  background-position: center;
+}
+
+.banner h1 {
+  color: #1687a7;
+  margin-top: 0;
+  text-shadow: 2px 2px #0E0E0E; /*why is this applying everywhere*/
+  }
+
+.banner h2 {
+  font-family: "Open sans";
+  padding-bottom: 20px;
+  color: white;
+}

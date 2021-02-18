@@ -1,0 +1,21 @@
+.footer {
+  height: 200px;
+  text-align: center;
+  background-color: #276678;
+}
+
+.footer ul {
+  list-style: none;
+  padding: 25px 0;
+}
+
+.footer li {
+  display: inline-block;
+}
+
+.social-icons {
+  font-size: 35px;
+  color: white;
+  letter-spacing: 20px;
+}
+

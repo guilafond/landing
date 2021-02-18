@@ -1,0 +1,16 @@
+/* Your button CSS file */
+
+
+.btn-yours {
+  padding: 15px 30px;
+  color: white;
+  font-family: Raleway;
+  border-radius: 10px;
+  font-weight: 700;
+  background-color: #1687a7;
+}
+
+  .btn-yours:hover {
+    background-color: white;
+    color: #1687a7;
+  }

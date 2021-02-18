@@ -1,0 +1,119 @@
+/* Your card CSS file */
+
+.card-title {
+  display: block;
+  text-align: center;
+}
+
+.card-list {
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+}
+
+.card-list img {
+  width: 100%;
+}
+
+
+.card-list div {
+  margin: 10px;
+}
+
+.card-list h2 {
+  margin-top: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.card-category {
+  display: flex;
+  justify-content: center;
+  align-items: center;height: 180px;
+  background-size: cover;
+  background-position: center;
+  color: white;
+  font-size: 24px;
+  font-weight: bold;
+  text-shadow: 1px 1px 3px rgb(0 0 0 / 20%);
+  border-radius: 5px;
+  box-shadow: 0 0 15px rgb(0 0 0 / 20%);
+}
+
+.card-product {
+  display: flex;
+  align-items: center;
+  background: white;
+  box-shadow: 0 0 15px rgb(0 0 0 / 20%);
+}
+  .card-product img {
+    height: 120px;
+    margin-right: 20px;
+  }
+  .card-product h2 {
+    font-size: 16px;
+    font-weight: bold;
+    margin: 0;
+  }
+  .card-product p {
+    font-size: 12px;
+    margin: 8px 0 0 0;
+  }
+
+
+.card-trip {
+  background: white;
+  box-shadow: 0 0 15px rgb(0 0 0 / 20%);
+}
+  .card-trip img {
+    height: 200px;
+    width: 100%;
+    object-fit: cover;
+  }
+
+.card-bottom {
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+  .card-bottom div {
+    margin-left: 20px;
+  }
+
+  .card-bottom h2 {
+    margin: 20px 0 0 0;
+  }
+
+  .card-bottom p {
+    margin: 0 0 20px 0;
+  }
+
+  .card-bottom .card-price {
+    margin: 0 15px 20px 0;
+  }
+
+  .card-bottom .card-avatar {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    border: white 1px solid;
+    box-shadow: 0 1px 2px rgb(0 0 0 / 20%);
+    position: absolute;
+    right: 25px;
+    top: -25px;
+  }
+
+
+
+
+
